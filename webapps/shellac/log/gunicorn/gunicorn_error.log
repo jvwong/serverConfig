@@ -1,0 +1,25 @@
+[2014-08-19 15:49:53 -0400] [10856] [INFO] Starting gunicorn 19.1.1
+[2014-08-19 15:49:53 -0400] [10856] [INFO] Listening at: http://192.168.0.10:9000 (10856)
+[2014-08-19 15:49:53 -0400] [10856] [INFO] Using worker: sync
+[2014-08-19 15:49:53 -0400] [10860] [INFO] Booting worker with pid: 10860
+[2014-08-19 15:49:57 -0400] [10856] [INFO] Handling signal: int
+[2014-08-19 15:49:57 -0400] [10860] [INFO] Worker exiting (pid: 10860)
+[2014-08-19 15:49:57 -0400] [10856] [INFO] Shutting down: Master
+[2014-08-19 16:34:59 -0400] [11848] [INFO] Starting gunicorn 19.1.1
+[2014-08-19 16:34:59 -0400] [11848] [INFO] Listening at: http://192.168.0.10:9000 (11848)
+[2014-08-19 16:34:59 -0400] [11848] [INFO] Using worker: sync
+[2014-08-19 16:34:59 -0400] [11851] [INFO] Booting worker with pid: 11851
+[2014-08-19 16:35:23 -0400] [11848] [INFO] Handling signal: term
+[2014-08-19 16:35:23 -0400] [11851] [INFO] Worker exiting (pid: 11851)
+[2014-08-19 16:35:23 -0400] [11848] [INFO] Shutting down: Master
+[2014-08-19 16:36:53 -0400] [1630] [INFO] Starting gunicorn 19.1.1
+[2014-08-19 16:36:53 -0400] [1630] [INFO] Listening at: http://192.168.0.10:9000 (1630)
+[2014-08-19 16:36:53 -0400] [1630] [INFO] Using worker: sync
+[2014-08-19 16:36:53 -0400] [1704] [INFO] Booting worker with pid: 1704
+[2014-08-19 16:38:02 -0400] [1630] [INFO] Handling signal: term
+[2014-08-19 16:38:02 -0400] [1704] [INFO] Worker exiting (pid: 1704)
+[2014-08-19 16:38:02 -0400] [1630] [INFO] Shutting down: Master
+[2014-08-19 16:40:58 -0400] [2242] [INFO] Starting gunicorn 19.1.1
+[2014-08-19 16:40:58 -0400] [2242] [INFO] Listening at: http://127.0.0.1:8004 (2242)
+[2014-08-19 16:40:58 -0400] [2242] [INFO] Using worker: sync
+[2014-08-19 16:40:58 -0400] [2245] [INFO] Booting worker with pid: 2245

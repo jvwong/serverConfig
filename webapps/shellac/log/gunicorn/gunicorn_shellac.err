@@ -1,0 +1,7 @@
+Exception ignored in: <module 'threading' from '/opt/python3.4/lib/python3.4/threading.py'>
+Traceback (most recent call last):
+  File "/opt/python3.4/lib/python3.4/threading.py", line 1279, in _shutdown
+    def _shutdown():
+  File "/webapps/shellac/.virtualenvs/shellac/lib/python3.4/site-packages/gunicorn/workers/base.py", line 149, in handle_quit
+    sys.exit(0)
+SystemExit: 0
